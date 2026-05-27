@@ -23,16 +23,6 @@ Projeto simples desenvolvido para praticar posicionamento de elementos com HTML 
 
 ---
 
-## 🖥️ Preview
-
-Adicione aqui uma imagem do projeto 👇
-
-```md
-![preview](./img/preview.png)
-```
-
----
-
 ## 📁 Estrutura do Projeto
 
 ```bash
